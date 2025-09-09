@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 .home{
     background-image: url(../Images/drew-coffman-1872.jpg);
     height: 33vh;
@@ -134,3 +139,4 @@ span{
 .end p{
     color: grey;
 }
+
